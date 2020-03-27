@@ -1,8 +1,8 @@
 # BeTheHero
 
-NODEJS
-REACT
+NODEJS \n
+REACT \n
 
-> run server 
-cd frontend yarn start
-cd backend yarn start
+> run server \n
+cd frontend yarn start \n
+cd backend yarn start \n
